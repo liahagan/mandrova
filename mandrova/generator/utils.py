@@ -264,7 +264,6 @@ contributor:
 
 import re
 import copy
-import random
 import numpy as np
 
 from sympy import sympify

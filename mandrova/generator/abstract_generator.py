@@ -17,7 +17,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from matplotlib.pyplot import savefig
-from sklearn.preprocessing import Normalizer, StandardScaler
 
 
 class AbstractGenerator:
